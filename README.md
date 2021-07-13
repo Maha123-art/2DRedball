@@ -1,6 +1,6 @@
 # 2DRedballGame
 
-package redball;
+package com.company.Main;
 
 import java.awt.Color;
 import java.awt.Dimension;
